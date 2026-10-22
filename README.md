@@ -1,6 +1,6 @@
 Descriptive Memory
 
-Proportions and Measurements
+Proportions and Measurements:
 I set up a fixed workspace of 800x800 pixels (createCanvas(800, 800)).
 
 Grid and Lines: The composition is structured by vertical and horizontal black lines of different thickness (strokeWeight(9) and strokeWeight(11)):
